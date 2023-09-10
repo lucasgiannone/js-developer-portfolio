@@ -8,6 +8,10 @@
     src: url('../fonts/neue-machina-regular.otf');
 }
 
+.hidden{
+    display: none !important;
+}
+
 body {
     background-color: #000;
     color: #fff;
